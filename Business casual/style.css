@@ -1,0 +1,30 @@
+body{
+    background-image: url(/img/bg.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.menu {
+    background-color: rgba(255,255,255,0.8 );
+    
+    
+}
+.menu1 ul li{
+    padding:30px;
+    display: inline;
+}
+.slide2{
+    background-color:rgba(255,255,255,0.8 ) ;
+}
+.para{
+     text-align: justify;
+}
+hr{
+    height: 2px;
+    width: 400px;
+    background-color: black;
+    border: none;
+    
+}
+
+
